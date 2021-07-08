@@ -1,0 +1,3 @@
+/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/Rasterizer.dir
+/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/ALL_BUILD.dir
+/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/ZERO_CHECK.dir

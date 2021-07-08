@@ -1,0 +1,831 @@
+The system is: Darwin - 20.6.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+2021-07-07 07:04:10.817 xcodebuild[23866:1976701] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+note: Using new build system
+note: Planning build
+note: Analyzing workspace
+note: Constructing build description
+note: Build preparation complete
+CreateBuildDirectory /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.xcodeproj
+    builtin-create-build-directory /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+
+warning: ONLY_ACTIVE_ARCH=YES requested with multiple ARCHS and no run destination to provide an active architecture; building for all applicable architectures (in target 'CompilerIdC' from project 'CompilerIdC')
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdC' from project 'CompilerIdC')
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap
+
+CompileC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    export LANG\=en_US.US-ASCII
+    /usr/bin/clang -x c -target x86_64-apple-macos11.3 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility\=hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources-normal/x86_64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/x86_64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList
+
+CompileC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c normal arm64 c com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    export LANG\=en_US.US-ASCII
+    /usr/bin/clang -x c -target arm64-apple-macos11.3 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility\=hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.o
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC.LinkFileList (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC.LinkFileList
+
+Ld /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/Binary/CompilerIdC normal arm64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/Binary/CompilerIdC
+
+Ld /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/Binary/CompilerIdC normal x86_64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/Binary/CompilerIdC
+
+CreateUniversalBinary /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC normal arm64\ x86_64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/Binary/CompilerIdC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/Binary/CompilerIdC -output /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /bin/sh -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+ARCHS=arm64 x86_64
+
+RegisterExecutionPolicyException /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    builtin-RegisterExecutionPolicyException /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC"
+
+The C compiler identification is AppleClang, found in "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/clang 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+2021-07-07 07:04:16.436 xcodebuild[23894:1977045] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+note: Using new build system
+note: Planning build
+note: Analyzing workspace
+note: Constructing build description
+note: Build preparation complete
+CreateBuildDirectory /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.xcodeproj
+    builtin-create-build-directory /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+
+warning: ONLY_ACTIVE_ARCH=YES requested with multiple ARCHS and no run destination to provide an active architecture; building for all applicable architectures (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap
+
+CompileC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    export LANG\=en_US.US-ASCII
+    /usr/bin/clang -x c++ -target x86_64-apple-macos11.3 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility\=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources-normal/x86_64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/x86_64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CompilerIdCXX.LinkFileList (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CompilerIdCXX.LinkFileList
+
+CompileC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CMakeCXXCompilerId.o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    export LANG\=en_US.US-ASCII
+    /usr/bin/clang -x c++ -target arm64-apple-macos11.3 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility\=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CMakeCXXCompilerId.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CMakeCXXCompilerId.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CMakeCXXCompilerId.o
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList
+
+Ld /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/Binary/CompilerIdCXX normal x86_64 (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target x86_64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_lto.o -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/Binary/CompilerIdCXX
+
+Ld /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/Binary/CompilerIdCXX normal arm64 (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CompilerIdCXX.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CompilerIdCXX_lto.o -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/CompilerIdCXX_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/Binary/CompilerIdCXX
+
+CreateUniversalBinary /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX normal arm64\ x86_64 (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/arm64/Binary/CompilerIdCXX /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/Binary/CompilerIdCXX -output /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    /bin/sh -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+ARCHS=arm64 x86_64
+
+RegisterExecutionPolicyException /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX (in target 'CompilerIdCXX' from project 'CompilerIdCXX')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX
+    builtin-RegisterExecutionPolicyException /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX"
+
+The CXX compiler identification is AppleClang, found in "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdCXX/CompilerIdCXX"
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_a0444 -configuration Debug -hideShellScriptEnvironment && 2021-07-07 07:04:18.790 xcodebuild[23916:1977297] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_a0444 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Prepare build
+note: The Legacy Build System will be removed in a future release. You can configure the selected build system and this deprecation message in File > Project Settings.
+=== BUILD TARGET cmTC_a0444 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64
+write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/cmTC_a0444.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/testCXXCompiler.o testCXXCompiler.cxx normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /usr/bin/clang -x c++ -target arm64-apple-macos11.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/testCXXCompiler.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/testCXXCompiler.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/testCXXCompiler.o
+
+Ld Debug/cmTC_a0444 normal arm64
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/cmTC_a0444.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/cmTC_a0444_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/Objects-normal/arm64/cmTC_a0444_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_a0444
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/cmTC_a0444.xcent
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/cmTC_a0444.xcent
+
+CodeSign Debug/cmTC_a0444
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_a0444.build/cmTC_a0444.xcent --timestamp=none /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_a0444
+/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_a0444: replacing existing signature
+
+** BUILD SUCCEEDED **
+
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_2cdd2 -configuration Debug -hideShellScriptEnvironment && 2021-07-07 07:04:20.345 xcodebuild[23934:1977540] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_2cdd2 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Prepare build
+note: The Legacy Build System will be removed in a future release. You can configure the selected build system and this deprecation message in File > Project Settings.
+=== BUILD TARGET cmTC_2cdd2 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64
+write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.o /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /usr/bin/clang -x c++ -target arm64-apple-macos11.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -v -Wl,-v -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.dia -c /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.o
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+Target: arm64-apple-macos11.3
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx11.3.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -fno-rounding-math -munwind-tables -target-sdk-version=11.3 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-a12 -target-feature +v8.3a -target-feature +fp-armv8 -target-feature +neon -target-feature +crc -target-feature +crypto -target-feature +fullfp16 -target-feature +ras -target-feature +lse -target-feature +rdm -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -fallow-half-arguments-and-returns -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 650.9 -v -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5 -dependency-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources-normal/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -stdlib=libc++ -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -fdeprecated-macro -fdebug-compilation-dir /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -fpascal-strings -fmax-type-align=16 -fcommon -fdiagnostics-show-note-include-stack -serialize-diagnostic-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.dia -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -mllvm -disable-aligned-alloc-awareness=1 -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.o -x c++ /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+clang -cc1 version 12.0.5 (clang-1205.0.22.11) default target x86_64-apple-darwin20.6.0
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources-normal/arm64"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources/arm64"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+
+Ld Debug/cmTC_2cdd2 normal arm64
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_lto.o -Xlinker -no_deduplicate -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+Target: arm64-apple-macos11.3
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2 -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug
+@(#)PROGRAM:ld  PROJECT:ld64-650.9
+BUILD 13:09:02 May 28 2021
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib
+Framework search paths:
+	/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/cmTC_2cdd2.xcent
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/cmTC_2cdd2.xcent
+
+CodeSign Debug/cmTC_2cdd2
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/cmTC_2cdd2.xcent --timestamp=none /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2
+/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2: replacing existing signature
+
+** BUILD SUCCEEDED **
+
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1]
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  end of search list found
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  implicit include dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_2cdd2 -configuration Debug -hideShellScriptEnvironment && 2021-07-07 07:04:20.345 xcodebuild[23934:1977540] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [Command line invocation:]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_2cdd2 -configuration Debug -hideShellScriptEnvironment]
+  ignore line: []
+  ignore line: [User defaults from command line:]
+  ignore line: [    HideShellScriptEnvironment = YES]
+  ignore line: [    IDEPackageSupportUseBuiltinSCM = YES]
+  ignore line: []
+  ignore line: [Prepare build]
+  ignore line: [note: The Legacy Build System will be removed in a future release. You can configure the selected build system and this deprecation message in File > Project Settings.]
+  ignore line: [=== BUILD TARGET cmTC_2cdd2 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===]
+  ignore line: []
+  ignore line: [Check dependencies]
+  ignore line: []
+  ignore line: [Write auxiliary files]
+  ignore line: [/bin/mkdir -p /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64]
+  ignore line: [write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList]
+  ignore line: []
+  ignore line: [CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.o /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler]
+  ignore line: [    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp]
+  ignore line: [    /usr/bin/clang -x c++ -target arm64-apple-macos11.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -v -Wl -v -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.dia -c /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.o]
+  ignore line: [Apple clang version 12.0.5 (clang-1205.0.22.11)]
+  ignore line: [Target: arm64-apple-macos11.3]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
+  ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx11.3.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -fno-rounding-math -munwind-tables -target-sdk-version=11.3 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-a12 -target-feature +v8.3a -target-feature +fp-armv8 -target-feature +neon -target-feature +crc -target-feature +crypto -target-feature +fullfp16 -target-feature +ras -target-feature +lse -target-feature +rdm -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -fallow-half-arguments-and-returns -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 650.9 -v -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5 -dependency-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources-normal/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -stdlib=libc++ -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -fdeprecated-macro -fdebug-compilation-dir /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -fpascal-strings -fmax-type-align=16 -fcommon -fdiagnostics-show-note-include-stack -serialize-diagnostic-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.dia -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -mllvm -disable-aligned-alloc-awareness=1 -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/CMakeCXXCompilerABI.o -x c++ /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang -cc1 version 12.0.5 (clang-1205.0.22.11) default target x86_64-apple-darwin20.6.0]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources-normal/arm64"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources/arm64"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/DerivedSources"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)]
+  ignore line: [End of search list.]
+  ignore line: []
+  ignore line: [Ld Debug/cmTC_2cdd2 normal arm64]
+  ignore line: [    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_lto.o -Xlinker -no_deduplicate -v -Wl -v -Wl -search_paths_first -Wl -headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2]
+  ignore line: [Apple clang version 12.0.5 (clang-1205.0.22.11)]
+  ignore line: [Target: arm64-apple-macos11.3]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  reduced line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2 -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug]
+            to: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2 -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a ]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2 -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a ]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [arm64] ==> ignore
+    arg [-platform_version] ==> ignore
+    arg [macos] ==> ignore
+    arg [11.3.0] ==> ignore
+    arg [11.3] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cdd2] ==> ignore
+    arg [-filelist] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2.LinkFileList] ==> ignore
+    arg [-object_path_lto] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_lto.o] ==> ignore
+    arg [-no_deduplicate] ==> ignore
+    arg [-v] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-dependency_info] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_2cdd2.build/Objects-normal/arm64/cmTC_2cdd2_dependency_info.dat] ==> ignore
+    arg [-lc++] ==> lib [c++]
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib]
+  Framework search paths: [;/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug] ==> [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib]
+  collapse framework dir [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug] ==> [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks]
+  implicit libs: [c++]
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks]
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/clang 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+2021-07-07 07:04:51.631 xcodebuild[24007:1978085] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+note: Using new build system
+note: Planning build
+note: Analyzing workspace
+note: Constructing build description
+note: Build preparation complete
+CreateBuildDirectory /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.xcodeproj
+    builtin-create-build-directory /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+
+warning: ONLY_ACTIVE_ARCH=YES requested with multiple ARCHS and no run destination to provide an active architecture; building for all applicable architectures (in target 'CompilerIdC' from project 'CompilerIdC')
+warning: Traditional headermap style is no longer supported; please migrate to using separate headermaps and set 'ALWAYS_SEARCH_USER_PATHS' to NO. (in target 'CompilerIdC' from project 'CompilerIdC')
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap
+
+CompileC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c normal arm64 c com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    export LANG\=en_US.US-ASCII
+    /usr/bin/clang -x c -target arm64-apple-macos11.3 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility\=hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CMakeCCompilerId.o
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC.LinkFileList (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC.LinkFileList
+
+CompileC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    export LANG\=en_US.US-ASCII
+    /usr/bin/clang -x c -target x86_64-apple-macos11.3 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility\=hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap -iquote /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources-normal/x86_64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/x86_64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.c -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o
+
+Ld /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/Binary/CompilerIdC normal x86_64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/Binary/CompilerIdC
+
+Ld /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/Binary/CompilerIdC normal arm64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC_lto.o -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/CompilerIdC_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/Binary/CompilerIdC
+
+CreateUniversalBinary /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC normal arm64\ x86_64 (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/arm64/Binary/CompilerIdC /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/Binary/CompilerIdC -output /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC
+
+WriteAuxiliaryFile /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+PhaseScriptExecution Run\ Script /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    /bin/sh -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+ARCHS=arm64 x86_64
+
+RegisterExecutionPolicyException /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC (in target 'CompilerIdC' from project 'CompilerIdC')
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC
+    builtin-RegisterExecutionPolicyException /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC"
+
+The C compiler identification is AppleClang, found in "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/3.16.4/CompilerIdC/CompilerIdC"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_3049b -configuration Debug -hideShellScriptEnvironment && 2021-07-07 07:04:53.951 xcodebuild[24028:1978358] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_3049b -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Prepare build
+note: The Legacy Build System will be removed in a future release. You can configure the selected build system and this deprecation message in File > Project Settings.
+=== BUILD TARGET cmTC_3049b OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64
+write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/cmTC_3049b.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/testCCompiler.o testCCompiler.c normal arm64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /usr/bin/clang -x c -target arm64-apple-macos11.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/testCCompiler.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/testCCompiler.dia -c /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/testCCompiler.c -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/testCCompiler.o
+
+Ld Debug/cmTC_3049b normal arm64
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /usr/bin/clang -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/cmTC_3049b.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/cmTC_3049b_lto.o -Xlinker -no_deduplicate -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/Objects-normal/arm64/cmTC_3049b_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_3049b
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/cmTC_3049b.xcent
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/cmTC_3049b.xcent
+
+CodeSign Debug/cmTC_3049b
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_3049b.build/cmTC_3049b.xcent --timestamp=none /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_3049b
+/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_3049b: replacing existing signature
+
+** BUILD SUCCEEDED **
+
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_970c9 -configuration Debug -hideShellScriptEnvironment && 2021-07-07 07:04:55.429 xcodebuild[24045:1978598] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_970c9 -configuration Debug -hideShellScriptEnvironment
+
+User defaults from command line:
+    HideShellScriptEnvironment = YES
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Prepare build
+note: The Legacy Build System will be removed in a future release. You can configure the selected build system and this deprecation message in File > Project Settings.
+=== BUILD TARGET cmTC_970c9 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64
+write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.o /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCCompilerABI.c normal arm64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /usr/bin/clang -x c -target arm64-apple-macos11.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -v -Wl,-v -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.dia -c /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCCompilerABI.c -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.o
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+Target: arm64-apple-macos11.3
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx11.3.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -fno-rounding-math -munwind-tables -target-sdk-version=11.3 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-a12 -target-feature +v8.3a -target-feature +fp-armv8 -target-feature +neon -target-feature +crc -target-feature +crypto -target-feature +fullfp16 -target-feature +ras -target-feature +lse -target-feature +rdm -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -fallow-half-arguments-and-returns -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 650.9 -v -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5 -dependency-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources-normal/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -fdebug-compilation-dir /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fpascal-strings -fmax-type-align=16 -fcommon -fdiagnostics-show-note-include-stack -serialize-diagnostic-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.dia -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -mllvm -disable-aligned-alloc-awareness=1 -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.o -x c /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCCompilerABI.c
+clang -cc1 version 12.0.5 (clang-1205.0.22.11) default target x86_64-apple-darwin20.6.0
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources-normal/arm64"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources/arm64"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources"
+ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+
+Ld Debug/cmTC_970c9 normal arm64
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    /usr/bin/clang -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_lto.o -Xlinker -no_deduplicate -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+Target: arm64-apple-macos11.3
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9 -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug
+@(#)PROGRAM:ld  PROJECT:ld64-650.9
+BUILD 13:09:02 May 28 2021
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib
+Framework search paths:
+	/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/
+
+ProcessProductPackaging "" CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/cmTC_970c9.xcent
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+
+Entitlements:
+
+{
+    "com.apple.security.get-task-allow" = 1;
+}
+
+
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/cmTC_970c9.xcent
+
+CodeSign Debug/cmTC_970c9
+    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp
+    
+Signing Identity:     "-"
+
+    /usr/bin/codesign --force --sign - --entitlements /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/cmTC_970c9.xcent --timestamp=none /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9
+/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9: replacing existing signature
+
+** BUILD SUCCEEDED **
+
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  end of search list found
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  implicit include dirs: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_970c9 -configuration Debug -hideShellScriptEnvironment && 2021-07-07 07:04:55.429 xcodebuild[24045:1978598] [MT] PluginLoading: Required plug-in compatibility UUID F56A1938-53DE-493D-9D64-87EE6C415E4D for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XVim.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [Command line invocation:]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTC_970c9 -configuration Debug -hideShellScriptEnvironment]
+  ignore line: []
+  ignore line: [User defaults from command line:]
+  ignore line: [    HideShellScriptEnvironment = YES]
+  ignore line: [    IDEPackageSupportUseBuiltinSCM = YES]
+  ignore line: []
+  ignore line: [Prepare build]
+  ignore line: [note: The Legacy Build System will be removed in a future release. You can configure the selected build system and this deprecation message in File > Project Settings.]
+  ignore line: [=== BUILD TARGET cmTC_970c9 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===]
+  ignore line: []
+  ignore line: [Check dependencies]
+  ignore line: []
+  ignore line: [Write auxiliary files]
+  ignore line: [/bin/mkdir -p /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64]
+  ignore line: [write-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList]
+  ignore line: []
+  ignore line: [CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.o /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCCompilerABI.c normal arm64 c com.apple.compilers.llvm.clang.1_0.compiler]
+  ignore line: [    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp]
+  ignore line: [    /usr/bin/clang -x c -target arm64-apple-macos11.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources-normal/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources/arm64 -I/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -v -Wl -v -MMD -MT dependencies -MF /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.d --serialize-diagnostics /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.dia -c /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCCompilerABI.c -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.o]
+  ignore line: [Apple clang version 12.0.5 (clang-1205.0.22.11)]
+  ignore line: [Target: arm64-apple-macos11.3]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
+  ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx11.3.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -fno-rounding-math -munwind-tables -target-sdk-version=11.3 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-a12 -target-feature +v8.3a -target-feature +fp-armv8 -target-feature +neon -target-feature +crc -target-feature +crypto -target-feature +fullfp16 -target-feature +ras -target-feature +lse -target-feature +rdm -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -fallow-half-arguments-and-returns -debug-info-kind=standalone -dwarf-version=4 -debugger-tuning=lldb -target-linker-version 650.9 -v -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5 -dependency-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.d -skip-unused-modulemap-deps -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -D "CMAKE_INTDIR=\"Debug\"" -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources-normal/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources/arm64 -I /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Wno-sign-conversion -Wno-infinite-recursion -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-semicolon-before-method-body -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -fdebug-compilation-dir /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmacro-backtrace-limit 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fpascal-strings -fmax-type-align=16 -fcommon -fdiagnostics-show-note-include-stack -serialize-diagnostic-file /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.dia -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -mllvm -disable-aligned-alloc-awareness=1 -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/CMakeCCompilerABI.o -x c /usr/local/Cellar/cmake/3.16.4/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 12.0.5 (clang-1205.0.22.11) default target x86_64-apple-darwin20.6.0]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/include"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources-normal/arm64"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources/arm64"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/DerivedSources"]
+  ignore line: [ignoring nonexistent directory "/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)]
+  ignore line: [End of search list.]
+  ignore line: []
+  ignore line: [Ld Debug/cmTC_970c9 normal arm64]
+  ignore line: [    cd /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp]
+  ignore line: [    /usr/bin/clang -target arm64-apple-macos11.3 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList -Xlinker -object_path_lto -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_lto.o -Xlinker -no_deduplicate -v -Wl -v -Wl -search_paths_first -Wl -headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_dependency_info.dat -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9]
+  ignore line: [Apple clang version 12.0.5 (clang-1205.0.22.11)]
+  ignore line: [Target: arm64-apple-macos11.3]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  reduced line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9 -L/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a -F/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug]
+            to: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9 -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a ]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 11.3.0 11.3 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9 -filelist /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList -object_path_lto /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_lto.o -no_deduplicate -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a ]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [arm64] ==> ignore
+    arg [-platform_version] ==> ignore
+    arg [macos] ==> ignore
+    arg [11.3.0] ==> ignore
+    arg [11.3] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug/cmTC_970c9] ==> ignore
+    arg [-filelist] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9.LinkFileList] ==> ignore
+    arg [-object_path_lto] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_lto.o] ==> ignore
+    arg [-no_deduplicate] ==> ignore
+    arg [-v] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-dependency_info] ==> ignore
+    arg [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_970c9.build/Objects-normal/arm64/cmTC_970c9_dependency_info.dat] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib]
+  Framework search paths: [;/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug] ==> [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib]
+  collapse framework dir [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug] ==> [/Users/lgy/Downloads/Homework3/Assignment3/build/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks]
+  implicit libs: []
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks]
+
+

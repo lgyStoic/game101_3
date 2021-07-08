@@ -1,0 +1,681 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		6C721238DD6746B195EBCAD8 /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 0ED23B9915EF4DF9AFF5EB6F /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				A727FA580C41438DBFE3B50E /* CMake Rules */,
+			);
+			dependencies = (
+				505A6B99A0D0491FA7CA07A9 /* PBXTargetDependency */,
+				144EA8A7F5B649E5B8409599 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
+		9F3FB0107B224151863B85ED /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = F3EF579629A94C6FAE8F2B55 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				A75E1C5A7B41425BA8083487 /* CMake Rules */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		0FFDE7DDFD1F4E96A8F21EC6 /* /Users/lgy/Downloads/Homework3/Assignment3/global.hpp */ = {isa = PBXBuildFile; fileRef = 0BE9F20AACF840F897EB868E /* /Users/lgy/Downloads/Homework3/Assignment3/global.hpp */; };
+		130F87CE60A34D49BF4ADC82 /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.hpp */ = {isa = PBXBuildFile; fileRef = 12D1762CB45447FEB682A55F /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.hpp */; };
+		3A8CCB0684C540908517C9CB /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.hpp */ = {isa = PBXBuildFile; fileRef = 6953F6BE2DB546119822C38B /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.hpp */; };
+		68037C1C986B4D0A90E80C4C /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.hpp */ = {isa = PBXBuildFile; fileRef = BD59B9FB2D5A4F40A5E4092E /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.hpp */; };
+		9A6587CF983B4A0FB7AD02CE /* /Users/lgy/Downloads/Homework3/Assignment3/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 670D8E283D8541E5B6A23129 /* /Users/lgy/Downloads/Homework3/Assignment3/CMakeLists.txt */; };
+		9C152326A9E64770BB8D5124 /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.cpp */ = {isa = PBXBuildFile; fileRef = 9C67899ADF534CFEBCCAFC4E /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.cpp */; };
+		A421C4A9165B42B7A134E6D1 /* /Users/lgy/Downloads/Homework3/Assignment3/OBJ_Loader.h */ = {isa = PBXBuildFile; fileRef = 8C546D2B77974DDDBADD171A /* /Users/lgy/Downloads/Homework3/Assignment3/OBJ_Loader.h */; };
+		A8EA0AED08084E37967C54FD /* /Users/lgy/Downloads/Homework3/Assignment3/main.cpp */ = {isa = PBXBuildFile; fileRef = 7882DF23D79F429587115795 /* /Users/lgy/Downloads/Homework3/Assignment3/main.cpp */; };
+		C494DD64D10A44629A18BA01 /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.cpp */ = {isa = PBXBuildFile; fileRef = 9CE999D2BB1F43EE9C7D3580 /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.cpp */; };
+		D1E7BEAAE31747FEA2D3C43E /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.cpp */ = {isa = PBXBuildFile; fileRef = F967AA8C849049068524CA22 /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.cpp */; };
+		E69016DE1134432C91BB2172 /* /Users/lgy/Downloads/Homework3/Assignment3/Shader.hpp */ = {isa = PBXBuildFile; fileRef = E33C0CA33CD14D84913D8BB8 /* /Users/lgy/Downloads/Homework3/Assignment3/Shader.hpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+		0E02B4F4B35B48E79F7F07D2 /* RelWithDebInfo */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = RelWithDebInfo;
+		};
+		75FC5EBF4E754182887339C5 /* MinSizeRel */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = MinSizeRel;
+		};
+		ECC257C8EA6A4998B589252C /* Debug */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		F853B19ACF654FF895B64A1F /* Release */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Release;
+		};
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+		3262508A628142C487B447EE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4CB7DB078F4F48D2AB4AFBB7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F3FB0107B224151863B85ED;
+			remoteInfo = ZERO_CHECK;
+		};
+		7E435A21C1C1463DBC944E3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4CB7DB078F4F48D2AB4AFBB7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F3FB0107B224151863B85ED;
+			remoteInfo = ZERO_CHECK;
+		};
+		EB1626ABA1F64BAFB148AAC2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4CB7DB078F4F48D2AB4AFBB7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DF18D9566C5B413686C20C00;
+			remoteInfo = Rasterizer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0BE9F20AACF840F897EB868E /* /Users/lgy/Downloads/Homework3/Assignment3/global.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = global.hpp; path = global.hpp; sourceTree = SOURCE_ROOT; };
+		12D1762CB45447FEB682A55F /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = rasterizer.hpp; path = rasterizer.hpp; sourceTree = SOURCE_ROOT; };
+		670D8E283D8541E5B6A23129 /* /Users/lgy/Downloads/Homework3/Assignment3/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		6953F6BE2DB546119822C38B /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = Texture.hpp; path = Texture.hpp; sourceTree = SOURCE_ROOT; };
+		7882DF23D79F429587115795 /* /Users/lgy/Downloads/Homework3/Assignment3/main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = main.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
+		8C546D2B77974DDDBADD171A /* /Users/lgy/Downloads/Homework3/Assignment3/OBJ_Loader.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = OBJ_Loader.h; path = OBJ_Loader.h; sourceTree = SOURCE_ROOT; };
+		9C67899ADF534CFEBCCAFC4E /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = Texture.cpp; path = Texture.cpp; sourceTree = SOURCE_ROOT; };
+		9CE999D2BB1F43EE9C7D3580 /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = Triangle.cpp; path = Triangle.cpp; sourceTree = SOURCE_ROOT; };
+		BD59B9FB2D5A4F40A5E4092E /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = Triangle.hpp; path = Triangle.hpp; sourceTree = SOURCE_ROOT; };
+		CE202F08BF1241A398F27FE4 /* /Users/lgy/Downloads/Homework3/Assignment3/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		D7B00FB1CBB541868600EFB3 /* Rasterizer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = Rasterizer; sourceTree = BUILT_PRODUCTS_DIR; };
+		E33C0CA33CD14D84913D8BB8 /* /Users/lgy/Downloads/Homework3/Assignment3/Shader.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = Shader.hpp; path = Shader.hpp; sourceTree = SOURCE_ROOT; };
+		F967AA8C849049068524CA22 /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = rasterizer.cpp; path = rasterizer.cpp; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		13438658E6034284BAA92D07 /* Rasterizer */ = {
+			isa = PBXGroup;
+			children = (
+				77923814A392467883CBC0C6 /* Source Files */,
+				9A6F2DE641244ECBBA061A4E /* Header Files */,
+				670D8E283D8541E5B6A23129 /* /Users/lgy/Downloads/Homework3/Assignment3/CMakeLists.txt */,
+			);
+			name = Rasterizer;
+			sourceTree = "<group>";
+		};
+		3338EE1761F14AAE81EC5C70 /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		77923814A392467883CBC0C6 /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				9C67899ADF534CFEBCCAFC4E /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.cpp */,
+				9CE999D2BB1F43EE9C7D3580 /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.cpp */,
+				7882DF23D79F429587115795 /* /Users/lgy/Downloads/Homework3/Assignment3/main.cpp */,
+				F967AA8C849049068524CA22 /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		8A0F101BD1AE468F86B1997F = {
+			isa = PBXGroup;
+			children = (
+				13438658E6034284BAA92D07 /* Rasterizer */,
+				CF857073067247899718046B /* ALL_BUILD */,
+				B1D3CF60B738462F9DC700A1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9A6F2DE641244ECBBA061A4E /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				8C546D2B77974DDDBADD171A /* /Users/lgy/Downloads/Homework3/Assignment3/OBJ_Loader.h */,
+				E33C0CA33CD14D84913D8BB8 /* /Users/lgy/Downloads/Homework3/Assignment3/Shader.hpp */,
+				6953F6BE2DB546119822C38B /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.hpp */,
+				BD59B9FB2D5A4F40A5E4092E /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.hpp */,
+				0BE9F20AACF840F897EB868E /* /Users/lgy/Downloads/Homework3/Assignment3/global.hpp */,
+				12D1762CB45447FEB682A55F /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.hpp */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		B1D3CF60B738462F9DC700A1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D7B00FB1CBB541868600EFB3 /* Rasterizer */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF857073067247899718046B /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				3338EE1761F14AAE81EC5C70 /* CMake Rules */,
+				CE202F08BF1241A398F27FE4 /* /Users/lgy/Downloads/Homework3/Assignment3/CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DF18D9566C5B413686C20C00 /* Rasterizer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EBA14A6882034B92A02C5EBF /* Build configuration list for PBXNativeTarget "Rasterizer" */;
+			buildPhases = (
+				8ED7590F561A4B03AAD5A3E0 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BF17270263CB409BA7B494F3 /* PBXTargetDependency */,
+			);
+			name = Rasterizer;
+			productName = Rasterizer;
+			productReference = D7B00FB1CBB541868600EFB3 /* Rasterizer */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4CB7DB078F4F48D2AB4AFBB7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 9D001963CEF348B684E72DBA /* Build configuration list for PBXProject "Rasterizer" */;
+			buildSettings = {
+			};
+			buildStyles = (
+				ECC257C8EA6A4998B589252C /* Debug */,
+				F853B19ACF654FF895B64A1F /* Release */,
+				75FC5EBF4E754182887339C5 /* MinSizeRel */,
+				0E02B4F4B35B48E79F7F07D2 /* RelWithDebInfo */,
+			);
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 8A0F101BD1AE468F86B1997F;
+			projectDirPath = ../;
+			projectRoot = "";
+			targets = (
+				6C721238DD6746B195EBCAD8 /* ALL_BUILD */,
+				DF18D9566C5B413686C20C00 /* Rasterizer */,
+				9F3FB0107B224151863B85ED /* ZERO_CHECK */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7325C9AC1C904CA181149048 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		A727FA580C41438DBFE3B50E /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/lgy/Downloads/Homework3/Assignment3/build -f /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		A75E1C5A7B41425BA8083487 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/lgy/Downloads/Homework3/Assignment3/build -f /Users/lgy/Downloads/Homework3/Assignment3/build/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		B34BEE48B36A420D9CDF43A0 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8ED7590F561A4B03AAD5A3E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C152326A9E64770BB8D5124 /* /Users/lgy/Downloads/Homework3/Assignment3/Texture.cpp */,
+				C494DD64D10A44629A18BA01 /* /Users/lgy/Downloads/Homework3/Assignment3/Triangle.cpp */,
+				A8EA0AED08084E37967C54FD /* /Users/lgy/Downloads/Homework3/Assignment3/main.cpp */,
+				D1E7BEAAE31747FEA2D3C43E /* /Users/lgy/Downloads/Homework3/Assignment3/rasterizer.cpp */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		144EA8A7F5B649E5B8409599 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DF18D9566C5B413686C20C00 /* Rasterizer */;
+			targetProxy = EB1626ABA1F64BAFB148AAC2 /* PBXContainerItemProxy */;
+		};
+		505A6B99A0D0491FA7CA07A9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F3FB0107B224151863B85ED /* ZERO_CHECK */;
+			targetProxy = 3262508A628142C487B447EE /* PBXContainerItemProxy */;
+		};
+		BF17270263CB409BA7B494F3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F3FB0107B224151863B85ED /* ZERO_CHECK */;
+			targetProxy = 7E435A21C1C1463DBC944E3C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		007EB6D6FB7B4E639EE420E2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk;
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build/build;
+			};
+			name = Release;
+		};
+		06AA0C952ECD48F5B672AF79 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/usr/local/include,/Users/lgy/Downloads/Homework3/Assignment3/./include);
+				INSTALL_PATH = "";
+				LD_RUNPATH_SEARCH_PATHS = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CPLUSPLUSFLAGS = "   '-std=gnu++1z'  ";
+				OTHER_LDFLAGS = " -Wl,-search_paths_first -Wl,-headerpad_max_install_names  /usr/local/lib/libopencv_highgui.4.5.2.dylib /usr/local/lib/libopencv_ml.4.5.2.dylib /usr/local/lib/libopencv_objdetect.4.5.2.dylib /usr/local/lib/libopencv_photo.4.5.2.dylib /usr/local/lib/libopencv_stitching.4.5.2.dylib /usr/local/lib/libopencv_video.4.5.2.dylib /usr/local/lib/libopencv_videoio.4.5.2.dylib /usr/local/lib/libopencv_imgcodecs.4.5.2.dylib /usr/local/lib/libopencv_calib3d.4.5.2.dylib /usr/local/lib/libopencv_dnn.4.5.2.dylib /usr/local/lib/libopencv_features2d.4.5.2.dylib /usr/local/lib/libopencv_flann.4.5.2.dylib /usr/local/lib/libopencv_imgproc.4.5.2.dylib /usr/local/lib/libopencv_core.4.5.2.dylib";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = Rasterizer;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				SYSTEM_HEADER_SEARCH_PATHS = (/usr/local/include/opencv4);
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		443352A275E54443BCE94DA7 /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		477EC3D669A34B4CA2BEF6AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+		47CC6B18076E425788D50A2E /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		583EA4A6C37541DBAB8F7FD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		612CF57F1AA94E1EBC64259B /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk;
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build/build;
+			};
+			name = MinSizeRel;
+		};
+		838B3473201A42A6A972F7F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		85796C878F924E98BC41B078 /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/usr/local/include,/Users/lgy/Downloads/Homework3/Assignment3/./include);
+				INSTALL_PATH = "";
+				LD_RUNPATH_SEARCH_PATHS = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG '-std=gnu++1z'  ";
+				OTHER_LDFLAGS = " -Wl,-search_paths_first -Wl,-headerpad_max_install_names  /usr/local/lib/libopencv_highgui.4.5.2.dylib /usr/local/lib/libopencv_ml.4.5.2.dylib /usr/local/lib/libopencv_objdetect.4.5.2.dylib /usr/local/lib/libopencv_photo.4.5.2.dylib /usr/local/lib/libopencv_stitching.4.5.2.dylib /usr/local/lib/libopencv_video.4.5.2.dylib /usr/local/lib/libopencv_videoio.4.5.2.dylib /usr/local/lib/libopencv_imgcodecs.4.5.2.dylib /usr/local/lib/libopencv_calib3d.4.5.2.dylib /usr/local/lib/libopencv_dnn.4.5.2.dylib /usr/local/lib/libopencv_features2d.4.5.2.dylib /usr/local/lib/libopencv_flann.4.5.2.dylib /usr/local/lib/libopencv_imgproc.4.5.2.dylib /usr/local/lib/libopencv_core.4.5.2.dylib";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = Rasterizer;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				SYSTEM_HEADER_SEARCH_PATHS = (/usr/local/include/opencv4);
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		978F6F5F42E7453FAC6128E1 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		9B4F8D8AC09F48DF88474A45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk;
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build/build;
+			};
+			name = Debug;
+		};
+		9C8F66A9E2BD4D008C51CAFB /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		A007573548784364B90CCB12 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/usr/local/include,/Users/lgy/Downloads/Homework3/Assignment3/./include);
+				INSTALL_PATH = "";
+				LD_RUNPATH_SEARCH_PATHS = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CPLUSPLUSFLAGS = "       -DNDEBUG '-std=gnu++1z'  ";
+				OTHER_LDFLAGS = " -Wl,-search_paths_first -Wl,-headerpad_max_install_names  /usr/local/lib/libopencv_highgui.4.5.2.dylib /usr/local/lib/libopencv_ml.4.5.2.dylib /usr/local/lib/libopencv_objdetect.4.5.2.dylib /usr/local/lib/libopencv_photo.4.5.2.dylib /usr/local/lib/libopencv_stitching.4.5.2.dylib /usr/local/lib/libopencv_video.4.5.2.dylib /usr/local/lib/libopencv_videoio.4.5.2.dylib /usr/local/lib/libopencv_imgcodecs.4.5.2.dylib /usr/local/lib/libopencv_calib3d.4.5.2.dylib /usr/local/lib/libopencv_dnn.4.5.2.dylib /usr/local/lib/libopencv_features2d.4.5.2.dylib /usr/local/lib/libopencv_flann.4.5.2.dylib /usr/local/lib/libopencv_imgproc.4.5.2.dylib /usr/local/lib/libopencv_core.4.5.2.dylib";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = Rasterizer;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				SYSTEM_HEADER_SEARCH_PATHS = (/usr/local/include/opencv4);
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		C2726BB3A509429BAF721DF1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/usr/local/include,/Users/lgy/Downloads/Homework3/Assignment3/./include);
+				INSTALL_PATH = "";
+				LD_RUNPATH_SEARCH_PATHS = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG '-std=gnu++1z'  ";
+				OTHER_LDFLAGS = " -Wl,-search_paths_first -Wl,-headerpad_max_install_names  /usr/local/lib/libopencv_highgui.4.5.2.dylib /usr/local/lib/libopencv_ml.4.5.2.dylib /usr/local/lib/libopencv_objdetect.4.5.2.dylib /usr/local/lib/libopencv_photo.4.5.2.dylib /usr/local/lib/libopencv_stitching.4.5.2.dylib /usr/local/lib/libopencv_video.4.5.2.dylib /usr/local/lib/libopencv_videoio.4.5.2.dylib /usr/local/lib/libopencv_imgcodecs.4.5.2.dylib /usr/local/lib/libopencv_calib3d.4.5.2.dylib /usr/local/lib/libopencv_dnn.4.5.2.dylib /usr/local/lib/libopencv_features2d.4.5.2.dylib /usr/local/lib/libopencv_flann.4.5.2.dylib /usr/local/lib/libopencv_imgproc.4.5.2.dylib /usr/local/lib/libopencv_core.4.5.2.dylib";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = Rasterizer;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				SYSTEM_HEADER_SEARCH_PATHS = (/usr/local/include/opencv4);
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+		DDA60B07401D434EAB29D465 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk;
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build/build;
+			};
+			name = RelWithDebInfo;
+		};
+		FD56C6D978984B218B704EB1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/lgy/Downloads/Homework3/Assignment3/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0ED23B9915EF4DF9AFF5EB6F /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				838B3473201A42A6A972F7F1 /* Debug */,
+				FD56C6D978984B218B704EB1 /* Release */,
+				443352A275E54443BCE94DA7 /* MinSizeRel */,
+				9C8F66A9E2BD4D008C51CAFB /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9D001963CEF348B684E72DBA /* Build configuration list for PBXProject "Rasterizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9B4F8D8AC09F48DF88474A45 /* Debug */,
+				007EB6D6FB7B4E639EE420E2 /* Release */,
+				612CF57F1AA94E1EBC64259B /* MinSizeRel */,
+				DDA60B07401D434EAB29D465 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		EBA14A6882034B92A02C5EBF /* Build configuration list for PBXNativeTarget "Rasterizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				06AA0C952ECD48F5B672AF79 /* Debug */,
+				C2726BB3A509429BAF721DF1 /* Release */,
+				85796C878F924E98BC41B078 /* MinSizeRel */,
+				A007573548784364B90CCB12 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F3EF579629A94C6FAE8F2B55 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				583EA4A6C37541DBAB8F7FD1 /* Debug */,
+				477EC3D669A34B4CA2BEF6AB /* Release */,
+				47CC6B18076E425788D50A2E /* MinSizeRel */,
+				978F6F5F42E7453FAC6128E1 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4CB7DB078F4F48D2AB4AFBB7 /* Project object */;
+}
